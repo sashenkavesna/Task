@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sections">
+        <item>Рыбы</item>
+        <item>Насекомые</item>
+        <item>Млекопитающие</item>
+        <item>Пресмыкающиеся</item>
+        <item>Птицы</item>
+        <item>Паукообразные</item>
+    </string-array>
+
+    <string-array name="fish">
+        <item>Дельфины</item>
+        <item>Пресноводные</item>
+        <item>Рыбы-клоуны</item>
+    </string-array>
+
+    <string-array name="insects">
+        <item>Муравьи</item>
+        <item>Пчелы</item>
+        <item>Жуки</item>
+        <item>Бабочки</item>
+        <item>Стрекозы</item>
+    </string-array>
+
+    <string-array name="mammals">
+        <item>Кошки</item>
+        <item>Коровы</item>
+        <item>Олени</item>
+        <item>Собаки</item>
+    </string-array>
+
+    <string-array name="reptiles">
+        <item>Крокодилы</item>
+    </string-array>
+
+    <string-array name="birds">
+        <item>Курицы</item>
+        <item>Утки</item>
+    </string-array>
+
+    <string-array name="spiders">
+        <item>Пауки</item>
+    </string-array>
+
+    <integer-array name="drawable_array_fish">
+        <item>@drawable/dolphin</item>
+        <item>@drawable/fish</item>
+        <item>@drawable/clownfish</item>
+    </integer-array>
+
+    <integer-array name="drawable_array_insects">
+        <item>@drawable/ant</item>
+        <item>@drawable/bee</item>
+        <item>@drawable/bug</item>
+        <item>@drawable/butterfly</item>
+        <item>@drawable/dragonfly</item>
+    </integer-array>
+
+    <integer-array name="drawable_array_mammals">
+        <item>@drawable/cat</item>
+        <item>@drawable/cow</item>
+        <item>@drawable/deer</item>
+        <item>@drawable/dog</item>
+    </integer-array>
+
+    <integer-array name="drawable_array_reptiles">
+        <item>@drawable/alligator</item>
+    </integer-array>
+
+    <integer-array name="drawable_array_birds">
+        <item>@drawable/chicken</item>
+        <item>@drawable/duck</item>
+    </integer-array>]
+
+    <integer-array name="drawable_array_spiders">
+        <item>@drawable/spider</item>
+    </integer-array>
+</resources>
